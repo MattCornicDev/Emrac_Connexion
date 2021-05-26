@@ -6,7 +6,7 @@ Le but de cet exercice est de pouvoir mettre en pratique la gestion de projet:
  - Emrac_Connexion®
 
 🐱‍💻 **Personnes participants au projet** 🐱‍💻
-Élodie, Michel, Rarib, Anissa, Cédric
+- Élodie, Michel, Rarib, Anissa, Cédric
 
 👩‍💻 **But du projet** 👨‍💻
-Créer une messagerie instantanée liant des groupes de personnes.
+- Créer une messagerie instantanée liant des groupes de personnes.
